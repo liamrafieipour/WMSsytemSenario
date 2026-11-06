@@ -172,7 +172,7 @@ Tests cover:
 
 ### 7.1 Build
 
-1. Open `StockAllocation.sln` in Visual Studio.
+1. Open `WMSsytemSenario.slnx` in Visual Studio.
 2. Select **Build → Rebuild Solution**.
 3. Check the Error List and ensure the solution builds successfully.
 
