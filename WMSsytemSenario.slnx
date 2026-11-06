@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="StockAllocation.Tests/StockAllocation.Tests.csproj" />
+  <Project Path="WMSsytemLibrary/WMSsytemLibrary.csproj" />
+</Solution>
